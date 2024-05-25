@@ -1,16 +1,26 @@
-## Hi there 👋
+Olá, eu sou Luiz Gavranich 👋
+Sobre mim
+Sou Engenheiro Eletrônico e Tecnólogo em Manutenção Industrial com uma paixão crescente por programação e análise de dados. Minha jornada profissional me levou a explorar e me aprofundar no mundo da tecnologia, sempre em busca de novas habilidades e conhecimentos.
 
-<!--
-**Lugavra/Lugavra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Minhas Áreas de Atuação
+Engenharia Eletrônica: Projeto, desenvolvimento e manutenção de sistemas eletrônicos.
+Manutenção Industrial: Soluções técnicas para garantir a eficiência e a continuidade dos processos industriais.
+Análise de Dados: Coleta, processamento e análise de dados para geração de insights valiosos.
+Projetos e Contribuições
 
-Here are some ideas to get you started:
+Tecnologias e Ferramentas
+Linguagens de Programação: Python, SQL, JavaScript, C, C++ e C#
+Ferramentas de Análise de Dados: Pandas, NumPy, Matplotlib
+Desenvolvimento e Colaboração: Git, GitHub
+Sempre Aprendendo
+Estou continuamente buscando aprimorar minhas habilidades e conhecimentos na área de análise de dados e programação. Recentemente, concluí cursos e certificações nas seguintes áreas:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Machine Learning
+Big Data
+Visualização de Dados
+
+Vamos Conectar!
+Estou aberto a novas oportunidades e colaborações. Sinta-se à vontade para explorar meus repositórios e entrar em contato comigo para discussões, sugestões ou apenas para trocar ideias sobre projetos interessantes.
+
+LinkedIn: www.linkedin.com/in/luiz-felipe-quineli-gavranich-889776150
+Email: felipe_gavranich@hotmail.com
